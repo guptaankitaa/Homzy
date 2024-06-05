@@ -1,2 +1,2 @@
 # HOMZY
-Real Estate Website
+Real Estate Website using MERN Stack
